@@ -1,0 +1,11 @@
+*.genome
+*.fas
+*.fastq
+*.sam
+*.bam
+*.bcf
+*.vcf
+*.bt2
+*.tar
+*.gz
+*.bai
